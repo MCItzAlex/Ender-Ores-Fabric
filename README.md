@@ -1,3 +1,3 @@
-#Ender Ores
+Ender Ores
 
-#Latest ver.: 1.18.1
+Latest ver.: 1.18.1
