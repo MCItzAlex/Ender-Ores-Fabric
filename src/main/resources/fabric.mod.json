@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "enderores",
+  "version": "${version}",
+
+  "name": "Ender Ores",
+  "description": "Adds vanilla ores to the end",
+  "authors": [
+    "Alex Balsillie"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/enderores/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.alexbalsillie.enderores.EnderOres"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

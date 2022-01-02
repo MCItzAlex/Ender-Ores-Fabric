@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "enderores:end_coal_ore",
+    "enderores:end_iron_ore",
+    "enderores:end_gold_ore",
+    "enderores:end_lapis_ore",
+    "enderores:end_redstone_ore",
+    "enderores:end_diamond_ore",
+    "enderores:end_emerald_ore",
+    "enderores:end_copper_ore"
+  ]
+}

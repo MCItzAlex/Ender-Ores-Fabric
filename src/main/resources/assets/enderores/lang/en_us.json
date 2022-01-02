@@ -1,0 +1,14 @@
+{
+  "block.enderores.end_coal_ore": "Coal Ore (End)",
+  "block.enderores.end_iron_ore": "Iron Ore (End)",
+  "block.enderores.end_gold_ore": "Gold Ore (End)",
+  "block.enderores.end_lapis_ore": "Lapis Ore (End)",
+  "block.enderores.end_diamond_ore": "Diamond Ore (End)",
+  "block.enderores.end_emerald_ore": "Emerald Ore (End)",
+  "block.enderores.end_redstone_ore": "Redstone Ore (End)",
+  "block.enderores.end_copper_ore": "Copper Ore (End)",
+
+  "item.enderores.raw_end_iron": "Raw Iron (End)",
+  "item.enderores.raw_end_gold": "Raw Gold (End)",
+  "item.enderores.raw_end_copper": "Raw Copper (End)"
+}
